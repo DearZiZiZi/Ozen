@@ -1,0 +1,301 @@
+ClientID,SaleDate,Amount,Product
+1,2024-01-12,75000,Personal Training - Gym
+2,2024-04-29,75000,Membership
+3,2024-02-21,75000,Membership
+4,2024-03-06,100000,Personal Training - Gym
+5,2024-01-25,50000,Personal Training - Pool
+6,2024-03-13,20000,Membership
+7,2024-03-10,50000,Personal Training - Pool
+8,2024-02-20,20000,Personal Training - Pool
+9,2024-02-19,75000,Personal Training - Gym
+10,2024-03-15,100000,Personal Training - Gym
+11,2024-02-09,50000,Personal Training - Pool
+12,2024-04-21,75000,Personal Training - Gym
+13,2024-04-17,20000,Personal Training - Pool
+14,2024-04-27,100000,Personal Training - Pool
+15,2024-03-08,75000,Personal Training - Pool
+16,2024-02-16,100000,Personal Training - Pool
+17,2024-03-29,20000,Membership
+18,2024-01-18,20000,Membership
+19,2024-04-09,50000,Membership
+20,2024-02-12,100000,Membership
+21,2024-04-26,20000,Personal Training - Pool
+22,2024-01-19,75000,Personal Training - Pool
+23,2024-02-19,75000,Personal Training - Pool
+24,2024-04-08,100000,Personal Training - Pool
+25,2024-04-15,100000,Membership
+26,2024-04-25,20000,Personal Training - Pool
+27,2024-03-20,75000,Personal Training - Pool
+28,2024-03-28,20000,Membership
+29,2024-02-21,75000,Membership
+30,2024-02-07,75000,Personal Training - Pool
+31,2024-03-06,50000,Membership
+32,2024-03-02,75000,Membership
+33,2024-02-07,20000,Membership
+34,2024-03-24,20000,Membership
+35,2024-04-23,75000,Personal Training - Pool
+36,2024-04-15,75000,Membership
+37,2024-04-29,20000,Membership
+38,2024-01-08,50000,Membership
+39,2024-01-29,50000,Membership
+40,2024-04-22,75000,Personal Training - Gym
+41,2024-04-18,20000,Membership
+42,2024-02-06,100000,Personal Training - Pool
+43,2024-02-16,75000,Personal Training - Pool
+44,2024-01-06,100000,Membership
+45,2024-02-13,75000,Membership
+46,2024-01-18,100000,Membership
+47,2024-01-25,75000,Personal Training - Pool
+48,2024-02-13,50000,Membership
+49,2024-04-04,100000,Personal Training - Pool
+50,2024-02-05,75000,Personal Training - Gym
+51,2024-01-25,75000,Membership
+52,2024-03-24,50000,Membership
+53,2024-01-27,20000,Membership
+54,2024-03-06,50000,Membership
+55,2024-04-06,100000,Membership
+56,2024-02-13,50000,Personal Training - Gym
+57,2024-02-29,20000,Personal Training - Gym
+58,2024-04-28,100000,Personal Training - Gym
+59,2024-01-22,50000,Personal Training - Pool
+60,2024-04-28,75000,Membership
+61,2024-04-09,20000,Personal Training - Pool
+62,2024-01-16,20000,Membership
+63,2024-03-05,75000,Personal Training - Gym
+64,2024-01-20,75000,Personal Training - Pool
+65,2024-04-10,20000,Personal Training - Gym
+66,2024-01-12,50000,Personal Training - Gym
+67,2024-04-01,75000,Personal Training - Gym
+68,2024-03-23,20000,Personal Training - Gym
+69,2024-01-05,20000,Personal Training - Pool
+70,2024-01-28,50000,Personal Training - Pool
+71,2024-04-25,20000,Personal Training - Gym
+72,2024-01-21,20000,Personal Training - Gym
+73,2024-04-01,100000,Personal Training - Gym
+74,2024-02-27,75000,Personal Training - Pool
+75,2024-03-21,50000,Membership
+76,2024-03-17,20000,Membership
+77,2024-03-12,20000,Personal Training - Gym
+78,2024-01-23,100000,Personal Training - Gym
+79,2024-03-18,50000,Personal Training - Pool
+80,2024-01-11,75000,Personal Training - Gym
+81,2024-01-11,20000,Personal Training - Pool
+82,2024-01-12,50000,Personal Training - Gym
+83,2024-02-22,75000,Personal Training - Pool
+84,2024-02-05,20000,Personal Training - Gym
+85,2024-04-11,75000,Personal Training - Pool
+86,2024-04-05,75000,Personal Training - Pool
+87,2024-03-07,50000,Personal Training - Gym
+88,2024-03-06,20000,Personal Training - Gym
+89,2024-02-10,50000,Personal Training - Pool
+90,2024-02-13,75000,Personal Training - Pool
+91,2024-01-13,50000,Personal Training - Gym
+92,2024-01-09,20000,Membership
+93,2024-02-17,20000,Membership
+94,2024-02-25,100000,Personal Training - Pool
+95,2024-01-24,50000,Membership
+96,2024-02-02,75000,Membership
+97,2024-02-23,20000,Membership
+98,2024-03-18,50000,Membership
+99,2024-04-11,50000,Personal Training - Pool
+100,2024-03-30,50000,Membership
+101,2024-02-01,20000,Personal Training - Pool
+102,2024-04-25,20000,Personal Training - Gym
+103,2024-04-03,100000,Personal Training - Gym
+104,2024-01-13,100000,Personal Training - Gym
+105,2024-01-02,75000,Personal Training - Pool
+106,2024-04-17,75000,Membership
+107,2024-02-19,50000,Personal Training - Gym
+108,2024-03-16,100000,Personal Training - Pool
+109,2024-01-30,50000,Personal Training - Gym
+110,2024-02-27,50000,Membership
+111,2024-04-03,20000,Personal Training - Gym
+112,2024-02-05,100000,Membership
+113,2024-04-07,100000,Personal Training - Gym
+114,2024-03-30,100000,Personal Training - Gym
+115,2024-01-31,50000,Membership
+116,2024-02-24,100000,Personal Training - Pool
+117,2024-03-18,100000,Membership
+118,2024-01-25,75000,Membership
+119,2024-04-11,50000,Personal Training - Gym
+120,2024-02-09,50000,Personal Training - Gym
+121,2024-03-08,75000,Personal Training - Gym
+122,2024-01-30,100000,Personal Training - Pool
+123,2024-04-12,75000,Membership
+124,2024-02-02,50000,Personal Training - Gym
+125,2024-01-10,20000,Personal Training - Gym
+126,2024-04-09,50000,Membership
+127,2024-04-01,75000,Membership
+128,2024-01-06,20000,Personal Training - Pool
+129,2024-01-15,100000,Personal Training - Pool
+130,2024-02-12,75000,Personal Training - Pool
+131,2024-01-14,50000,Membership
+132,2024-01-04,50000,Personal Training - Pool
+133,2024-01-12,50000,Membership
+134,2024-02-04,100000,Personal Training - Gym
+135,2024-04-21,50000,Membership
+136,2024-02-12,20000,Personal Training - Pool
+137,2024-02-04,100000,Personal Training - Gym
+138,2024-03-25,20000,Membership
+139,2024-02-29,100000,Personal Training - Pool
+140,2024-01-05,75000,Membership
+141,2024-04-26,50000,Membership
+142,2024-03-12,100000,Personal Training - Gym
+143,2024-03-14,75000,Membership
+144,2024-04-30,100000,Membership
+145,2024-02-07,100000,Membership
+146,2024-04-29,75000,Personal Training - Pool
+147,2024-04-22,50000,Personal Training - Pool
+148,2024-04-04,50000,Personal Training - Pool
+149,2024-03-26,75000,Personal Training - Gym
+150,2024-02-09,75000,Membership
+151,2024-02-16,75000,Membership
+152,2024-04-18,20000,Membership
+153,2024-01-02,100000,Personal Training - Gym
+154,2024-01-23,75000,Personal Training - Pool
+155,2024-01-06,75000,Personal Training - Pool
+156,2024-02-07,75000,Personal Training - Gym
+157,2024-04-03,20000,Membership
+158,2024-02-07,20000,Personal Training - Pool
+159,2024-02-12,75000,Personal Training - Gym
+160,2024-01-04,20000,Personal Training - Pool
+161,2024-02-14,100000,Membership
+162,2024-03-18,75000,Membership
+163,2024-02-03,50000,Personal Training - Gym
+164,2024-04-29,100000,Personal Training - Pool
+165,2024-02-08,50000,Personal Training - Pool
+166,2024-02-05,75000,Membership
+167,2024-01-16,50000,Personal Training - Gym
+168,2024-02-28,100000,Personal Training - Gym
+169,2024-04-07,100000,Personal Training - Gym
+170,2024-01-27,75000,Personal Training - Pool
+171,2024-03-29,100000,Personal Training - Gym
+172,2024-02-10,75000,Membership
+173,2024-03-26,50000,Personal Training - Pool
+174,2024-02-20,20000,Personal Training - Pool
+175,2024-03-29,50000,Personal Training - Gym
+176,2024-03-14,50000,Personal Training - Gym
+177,2024-03-17,50000,Membership
+178,2024-04-11,20000,Membership
+179,2024-01-09,75000,Membership
+180,2024-02-06,50000,Membership
+181,2024-03-13,100000,Personal Training - Pool
+182,2024-02-09,50000,Personal Training - Pool
+183,2024-02-24,100000,Personal Training - Pool
+184,2024-04-13,20000,Personal Training - Pool
+185,2024-01-19,50000,Personal Training - Gym
+186,2024-02-19,50000,Personal Training - Pool
+187,2024-02-15,100000,Membership
+188,2024-03-23,50000,Personal Training - Pool
+189,2024-02-23,75000,Personal Training - Gym
+190,2024-03-21,50000,Personal Training - Pool
+191,2024-01-27,100000,Membership
+192,2024-01-19,20000,Personal Training - Pool
+193,2024-01-07,20000,Personal Training - Pool
+194,2024-02-12,20000,Personal Training - Gym
+195,2024-04-22,75000,Personal Training - Gym
+196,2024-01-08,50000,Personal Training - Gym
+197,2024-01-13,50000,Personal Training - Gym
+198,2024-02-11,75000,Membership
+199,2024-03-24,100000,Membership
+200,2024-01-03,50000,Personal Training - Pool
+201,2024-03-19,50000,Personal Training - Gym
+202,2024-02-14,50000,Personal Training - Pool
+203,2024-02-28,50000,Membership
+204,2024-03-08,75000,Personal Training - Gym
+205,2024-02-26,20000,Personal Training - Pool
+206,2024-04-20,100000,Membership
+207,2024-03-28,20000,Membership
+208,2024-04-19,75000,Membership
+209,2024-03-20,75000,Personal Training - Pool
+210,2024-02-24,20000,Personal Training - Gym
+211,2024-02-18,75000,Membership
+212,2024-03-13,75000,Personal Training - Pool
+213,2024-04-06,20000,Membership
+214,2024-02-25,20000,Personal Training - Gym
+215,2024-01-28,20000,Personal Training - Gym
+216,2024-01-28,100000,Personal Training - Pool
+217,2024-01-06,75000,Personal Training - Gym
+218,2024-03-08,75000,Membership
+219,2024-03-04,50000,Personal Training - Gym
+220,2024-04-08,75000,Personal Training - Gym
+221,2024-01-12,75000,Membership
+222,2024-01-30,20000,Personal Training - Gym
+223,2024-03-25,100000,Personal Training - Gym
+224,2024-04-13,75000,Personal Training - Gym
+225,2024-02-21,20000,Personal Training - Gym
+226,2024-02-29,20000,Membership
+227,2024-04-14,75000,Personal Training - Gym
+228,2024-02-26,75000,Membership
+229,2024-02-29,50000,Personal Training - Pool
+230,2024-04-21,100000,Membership
+231,2024-03-24,20000,Membership
+232,2024-02-27,75000,Personal Training - Pool
+233,2024-03-03,20000,Personal Training - Pool
+234,2024-01-09,50000,Personal Training - Pool
+235,2024-04-18,75000,Personal Training - Pool
+236,2024-04-19,100000,Personal Training - Pool
+237,2024-03-02,75000,Personal Training - Pool
+238,2024-03-31,75000,Personal Training - Pool
+239,2024-01-27,50000,Personal Training - Gym
+240,2024-02-02,100000,Personal Training - Pool
+241,2024-04-05,50000,Personal Training - Pool
+242,2024-04-04,50000,Personal Training - Pool
+243,2024-02-07,50000,Membership
+244,2024-02-10,20000,Membership
+245,2024-03-03,75000,Membership
+246,2024-01-22,100000,Personal Training - Gym
+247,2024-03-30,50000,Personal Training - Pool
+248,2024-02-07,50000,Membership
+249,2024-02-25,50000,Personal Training - Pool
+250,2024-04-29,100000,Personal Training - Gym
+251,2024-04-17,100000,Personal Training - Gym
+252,2024-03-24,75000,Membership
+253,2024-02-13,75000,Membership
+254,2024-01-02,20000,Membership
+255,2024-02-06,50000,Membership
+256,2024-04-26,50000,Personal Training - Pool
+257,2024-04-20,75000,Personal Training - Gym
+258,2024-01-06,100000,Personal Training - Pool
+259,2024-04-10,75000,Personal Training - Gym
+260,2024-02-26,20000,Personal Training - Gym
+261,2024-01-13,75000,Personal Training - Gym
+262,2024-04-01,50000,Personal Training - Gym
+263,2024-02-27,100000,Membership
+264,2024-04-15,50000,Membership
+265,2024-03-05,20000,Personal Training - Gym
+266,2024-03-19,100000,Personal Training - Gym
+267,2024-02-12,20000,Personal Training - Pool
+268,2024-03-18,50000,Personal Training - Pool
+269,2024-01-14,100000,Personal Training - Pool
+270,2024-01-29,75000,Personal Training - Pool
+271,2024-01-19,75000,Membership
+272,2024-04-10,20000,Personal Training - Pool
+273,2024-04-01,100000,Membership
+274,2024-03-28,100000,Personal Training - Gym
+275,2024-03-29,75000,Personal Training - Gym
+276,2024-02-08,50000,Personal Training - Pool
+277,2024-01-07,50000,Membership
+278,2024-03-26,50000,Personal Training - Gym
+279,2024-03-04,100000,Personal Training - Gym
+280,2024-02-25,50000,Personal Training - Pool
+281,2024-03-19,20000,Membership
+282,2024-01-02,100000,Membership
+283,2024-04-14,50000,Personal Training - Pool
+284,2024-01-31,20000,Personal Training - Pool
+285,2024-02-12,20000,Personal Training - Gym
+286,2024-04-02,20000,Membership
+287,2024-01-16,50000,Personal Training - Gym
+288,2024-03-22,50000,Membership
+289,2024-03-16,75000,Membership
+290,2024-02-19,75000,Membership
+291,2024-02-03,75000,Personal Training - Pool
+292,2024-03-14,75000,Membership
+293,2024-01-07,100000,Membership
+294,2024-04-20,100000,Personal Training - Pool
+295,2024-04-15,100000,Personal Training - Gym
+296,2024-03-30,50000,Personal Training - Gym
+297,2024-01-10,20000,Membership
+298,2024-03-18,50000,Membership
+299,2024-01-27,20000,Personal Training - Pool
+300,2024-02-17,50000,Personal Training - Gym

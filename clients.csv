@@ -1,0 +1,301 @@
+ClientID,Age,Gender,MembershipType,AcquisitionSource,Trainer
+1,53,Male,Daytime,Website,A. Sait
+2,66,Female,12 Months,Instagram,T. Test
+3,43,Female,Daytime,Referral,T. Test
+4,29,Male,1 Month,Website,T. Test
+5,57,Male,12 Months,Instagram,A. Sait
+6,22,Female,Daytime,Referral,P. Test
+7,35,Female,12 Months,Referral,T. Test
+8,53,Female,3 Months,Walk-in,T. Test
+9,33,Female,3 Months,Instagram,A. Sait
+10,37,Male,Daytime,Instagram,T. Test
+11,25,Female,12 Months,Website,A. Sait
+12,25,Female,1 Month,Walk-in,P. Test
+13,38,Male,Daytime,Walk-in,A. Sait
+14,67,Female,3 Months,Walk-in,A. Sait
+15,50,Male,3 Months,Walk-in,A. Sait
+16,54,Female,Daytime,Instagram,A. Sait
+17,38,Female,12 Months,Instagram,P. Test
+18,17,Female,3 Months,Referral,P. Test
+19,36,Male,12 Months,Referral,T. Test
+20,67,Male,3 Months,Walk-in,P. Test
+21,16,Female,3 Months,Walk-in,P. Test
+22,38,Male,6 Months,Walk-in,T. Test
+23,58,Male,3 Months,Referral,P. Test
+24,44,Male,1 Month,Website,A. Sait
+25,52,Male,Daytime,Website,A. Sait
+26,16,Male,Daytime,Referral,T. Test
+27,35,Male,12 Months,Referral,T. Test
+28,47,Female,3 Months,Referral,T. Test
+29,26,Female,1 Month,Referral,A. Sait
+30,36,Male,12 Months,Referral,P. Test
+31,58,Female,6 Months,Referral,A. Sait
+32,39,Female,12 Months,Walk-in,T. Test
+33,63,Female,12 Months,Walk-in,P. Test
+34,41,Female,3 Months,Walk-in,P. Test
+35,56,Male,6 Months,Walk-in,A. Sait
+36,42,Female,12 Months,Referral,T. Test
+37,30,Female,1 Month,Website,A. Sait
+38,29,Male,1 Month,Instagram,P. Test
+39,61,Male,Daytime,Referral,A. Sait
+40,65,Female,6 Months,Instagram,A. Sait
+41,58,Female,6 Months,Website,T. Test
+42,69,Female,Daytime,Walk-in,T. Test
+43,66,Female,12 Months,Website,P. Test
+44,17,Female,6 Months,Referral,A. Sait
+45,51,Female,1 Month,Walk-in,A. Sait
+46,65,Male,1 Month,Referral,A. Sait
+47,21,Female,3 Months,Walk-in,P. Test
+48,35,Female,6 Months,Instagram,P. Test
+49,23,Male,12 Months,Instagram,T. Test
+50,53,Male,Daytime,Instagram,T. Test
+51,32,Male,Daytime,Website,T. Test
+52,18,Male,12 Months,Referral,A. Sait
+53,39,Female,3 Months,Website,A. Sait
+54,28,Female,Daytime,Instagram,T. Test
+55,64,Female,6 Months,Referral,A. Sait
+56,23,Female,3 Months,Instagram,T. Test
+57,40,Female,6 Months,Website,P. Test
+58,67,Female,1 Month,Website,T. Test
+59,16,Male,3 Months,Website,P. Test
+60,34,Female,Daytime,Instagram,A. Sait
+61,42,Male,3 Months,Referral,T. Test
+62,61,Male,3 Months,Referral,A. Sait
+63,21,Female,3 Months,Instagram,P. Test
+64,58,Male,3 Months,Referral,P. Test
+65,22,Female,6 Months,Instagram,P. Test
+66,61,Male,1 Month,Referral,A. Sait
+67,49,Female,12 Months,Walk-in,A. Sait
+68,28,Male,3 Months,Walk-in,A. Sait
+69,31,Female,Daytime,Website,A. Sait
+70,50,Female,3 Months,Walk-in,P. Test
+71,64,Female,Daytime,Walk-in,P. Test
+72,54,Female,6 Months,Walk-in,T. Test
+73,18,Female,Daytime,Instagram,T. Test
+74,16,Male,12 Months,Walk-in,A. Sait
+75,20,Male,1 Month,Walk-in,P. Test
+76,68,Male,Daytime,Website,P. Test
+77,56,Female,Daytime,Walk-in,P. Test
+78,18,Male,1 Month,Walk-in,T. Test
+79,68,Female,12 Months,Referral,T. Test
+80,43,Female,3 Months,Website,P. Test
+81,32,Male,Daytime,Website,P. Test
+82,40,Male,1 Month,Website,P. Test
+83,58,Female,6 Months,Website,T. Test
+84,48,Male,1 Month,Website,P. Test
+85,24,Female,6 Months,Website,P. Test
+86,50,Female,12 Months,Instagram,A. Sait
+87,28,Female,3 Months,Walk-in,A. Sait
+88,45,Female,1 Month,Website,T. Test
+89,62,Female,Daytime,Walk-in,P. Test
+90,29,Male,12 Months,Walk-in,P. Test
+91,22,Male,1 Month,Instagram,A. Sait
+92,28,Female,Daytime,Website,T. Test
+93,37,Female,1 Month,Referral,A. Sait
+94,54,Male,6 Months,Instagram,A. Sait
+95,35,Male,1 Month,Referral,A. Sait
+96,30,Female,1 Month,Walk-in,A. Sait
+97,59,Male,1 Month,Walk-in,P. Test
+98,32,Female,12 Months,Instagram,P. Test
+99,61,Male,1 Month,Instagram,A. Sait
+100,67,Female,Daytime,Referral,T. Test
+101,38,Male,6 Months,Website,T. Test
+102,40,Female,6 Months,Referral,T. Test
+103,39,Male,1 Month,Instagram,T. Test
+104,59,Male,12 Months,Referral,A. Sait
+105,55,Female,12 Months,Instagram,P. Test
+106,43,Male,Daytime,Referral,T. Test
+107,29,Female,1 Month,Instagram,A. Sait
+108,59,Male,6 Months,Instagram,T. Test
+109,15,Female,12 Months,Instagram,T. Test
+110,39,Male,1 Month,Website,A. Sait
+111,21,Female,12 Months,Referral,P. Test
+112,23,Male,12 Months,Referral,P. Test
+113,38,Female,6 Months,Referral,A. Sait
+114,15,Male,3 Months,Instagram,P. Test
+115,58,Female,Daytime,Referral,A. Sait
+116,22,Female,Daytime,Referral,A. Sait
+117,38,Female,6 Months,Instagram,A. Sait
+118,25,Male,12 Months,Walk-in,P. Test
+119,65,Female,1 Month,Instagram,A. Sait
+120,31,Male,12 Months,Referral,T. Test
+121,22,Female,6 Months,Instagram,P. Test
+122,49,Male,Daytime,Walk-in,P. Test
+123,49,Female,12 Months,Instagram,P. Test
+124,47,Male,Daytime,Referral,P. Test
+125,19,Male,1 Month,Walk-in,T. Test
+126,56,Female,Daytime,Website,P. Test
+127,53,Male,Daytime,Referral,P. Test
+128,55,Male,3 Months,Walk-in,A. Sait
+129,42,Female,3 Months,Walk-in,P. Test
+130,21,Male,3 Months,Website,T. Test
+131,23,Male,Daytime,Instagram,T. Test
+132,22,Male,6 Months,Instagram,T. Test
+133,26,Female,Daytime,Referral,T. Test
+134,48,Male,6 Months,Website,P. Test
+135,47,Female,6 Months,Instagram,P. Test
+136,62,Male,3 Months,Website,T. Test
+137,69,Male,12 Months,Instagram,T. Test
+138,37,Male,1 Month,Walk-in,P. Test
+139,38,Female,3 Months,Instagram,T. Test
+140,51,Male,3 Months,Website,A. Sait
+141,49,Male,12 Months,Walk-in,T. Test
+142,58,Female,1 Month,Walk-in,T. Test
+143,54,Male,Daytime,Walk-in,A. Sait
+144,36,Female,Daytime,Website,A. Sait
+145,41,Female,3 Months,Referral,P. Test
+146,49,Male,1 Month,Referral,P. Test
+147,15,Female,3 Months,Referral,A. Sait
+148,49,Male,6 Months,Website,A. Sait
+149,51,Female,3 Months,Walk-in,P. Test
+150,61,Female,3 Months,Referral,T. Test
+151,28,Male,Daytime,Website,A. Sait
+152,17,Female,Daytime,Referral,P. Test
+153,15,Female,Daytime,Instagram,T. Test
+154,19,Female,6 Months,Referral,A. Sait
+155,40,Female,Daytime,Referral,T. Test
+156,69,Female,1 Month,Walk-in,P. Test
+157,28,Male,12 Months,Website,A. Sait
+158,53,Female,1 Month,Walk-in,T. Test
+159,41,Male,1 Month,Walk-in,A. Sait
+160,23,Female,Daytime,Walk-in,T. Test
+161,29,Male,12 Months,Walk-in,P. Test
+162,29,Male,12 Months,Walk-in,P. Test
+163,40,Female,12 Months,Referral,A. Sait
+164,56,Female,6 Months,Walk-in,T. Test
+165,27,Female,Daytime,Walk-in,A. Sait
+166,65,Male,12 Months,Website,A. Sait
+167,46,Female,6 Months,Instagram,T. Test
+168,53,Male,3 Months,Referral,T. Test
+169,63,Male,3 Months,Referral,T. Test
+170,66,Male,6 Months,Referral,P. Test
+171,46,Female,6 Months,Walk-in,A. Sait
+172,18,Female,Daytime,Walk-in,A. Sait
+173,44,Male,Daytime,Walk-in,P. Test
+174,51,Male,3 Months,Website,T. Test
+175,37,Female,12 Months,Instagram,P. Test
+176,53,Male,3 Months,Walk-in,P. Test
+177,59,Female,12 Months,Instagram,P. Test
+178,29,Male,12 Months,Website,A. Sait
+179,57,Female,Daytime,Referral,P. Test
+180,43,Male,1 Month,Walk-in,A. Sait
+181,50,Female,1 Month,Instagram,A. Sait
+182,27,Male,6 Months,Instagram,A. Sait
+183,46,Female,Daytime,Walk-in,T. Test
+184,21,Female,12 Months,Referral,A. Sait
+185,65,Male,1 Month,Referral,A. Sait
+186,36,Male,12 Months,Referral,T. Test
+187,42,Female,1 Month,Website,A. Sait
+188,16,Male,1 Month,Instagram,P. Test
+189,56,Female,1 Month,Instagram,P. Test
+190,59,Male,Daytime,Instagram,A. Sait
+191,67,Female,3 Months,Website,T. Test
+192,20,Female,12 Months,Instagram,P. Test
+193,42,Female,Daytime,Website,T. Test
+194,42,Female,Daytime,Referral,T. Test
+195,58,Female,Daytime,Walk-in,P. Test
+196,58,Female,Daytime,Instagram,T. Test
+197,34,Male,Daytime,Instagram,P. Test
+198,44,Male,6 Months,Referral,T. Test
+199,25,Male,12 Months,Walk-in,P. Test
+200,69,Female,Daytime,Website,A. Sait
+201,42,Female,12 Months,Walk-in,P. Test
+202,39,Female,6 Months,Referral,P. Test
+203,53,Female,6 Months,Referral,P. Test
+204,47,Male,12 Months,Walk-in,P. Test
+205,15,Male,1 Month,Website,T. Test
+206,41,Female,3 Months,Website,A. Sait
+207,66,Male,1 Month,Instagram,P. Test
+208,27,Male,1 Month,Website,T. Test
+209,55,Female,1 Month,Walk-in,A. Sait
+210,17,Male,Daytime,Referral,A. Sait
+211,53,Female,6 Months,Instagram,A. Sait
+212,20,Male,1 Month,Instagram,A. Sait
+213,22,Female,6 Months,Referral,P. Test
+214,41,Female,12 Months,Website,P. Test
+215,23,Female,3 Months,Referral,T. Test
+216,51,Female,12 Months,Website,T. Test
+217,47,Male,12 Months,Referral,T. Test
+218,65,Female,Daytime,Walk-in,A. Sait
+219,56,Female,3 Months,Website,A. Sait
+220,58,Female,12 Months,Walk-in,P. Test
+221,38,Male,12 Months,Instagram,A. Sait
+222,29,Female,3 Months,Referral,A. Sait
+223,68,Male,3 Months,Instagram,A. Sait
+224,46,Female,12 Months,Instagram,T. Test
+225,46,Male,3 Months,Instagram,T. Test
+226,38,Male,12 Months,Instagram,P. Test
+227,55,Female,12 Months,Referral,A. Sait
+228,66,Male,Daytime,Instagram,A. Sait
+229,63,Female,1 Month,Referral,P. Test
+230,63,Female,12 Months,Referral,A. Sait
+231,66,Female,6 Months,Walk-in,A. Sait
+232,26,Male,1 Month,Website,T. Test
+233,53,Male,1 Month,Website,P. Test
+234,16,Female,1 Month,Referral,P. Test
+235,17,Female,Daytime,Walk-in,P. Test
+236,63,Male,12 Months,Referral,P. Test
+237,51,Female,Daytime,Referral,T. Test
+238,63,Female,12 Months,Referral,T. Test
+239,31,Female,Daytime,Walk-in,A. Sait
+240,63,Male,Daytime,Website,A. Sait
+241,16,Male,6 Months,Walk-in,A. Sait
+242,16,Male,Daytime,Instagram,A. Sait
+243,42,Female,3 Months,Walk-in,T. Test
+244,68,Female,6 Months,Walk-in,P. Test
+245,37,Female,Daytime,Walk-in,T. Test
+246,51,Male,1 Month,Walk-in,A. Sait
+247,46,Female,3 Months,Website,T. Test
+248,47,Female,3 Months,Instagram,P. Test
+249,15,Female,3 Months,Website,P. Test
+250,33,Female,6 Months,Website,T. Test
+251,16,Male,Daytime,Walk-in,T. Test
+252,67,Male,Daytime,Referral,T. Test
+253,58,Female,1 Month,Referral,A. Sait
+254,40,Male,1 Month,Website,T. Test
+255,46,Male,3 Months,Website,T. Test
+256,20,Female,1 Month,Walk-in,T. Test
+257,46,Female,6 Months,Website,P. Test
+258,69,Male,Daytime,Walk-in,P. Test
+259,18,Female,3 Months,Referral,A. Sait
+260,69,Male,1 Month,Referral,A. Sait
+261,25,Female,6 Months,Instagram,P. Test
+262,31,Male,6 Months,Referral,P. Test
+263,52,Female,1 Month,Website,P. Test
+264,38,Male,Daytime,Referral,T. Test
+265,19,Male,1 Month,Walk-in,T. Test
+266,66,Male,3 Months,Referral,P. Test
+267,48,Female,1 Month,Instagram,T. Test
+268,20,Male,6 Months,Referral,T. Test
+269,36,Male,1 Month,Walk-in,A. Sait
+270,25,Female,Daytime,Walk-in,P. Test
+271,62,Female,12 Months,Website,P. Test
+272,30,Male,1 Month,Referral,T. Test
+273,47,Male,Daytime,Walk-in,P. Test
+274,23,Female,Daytime,Instagram,A. Sait
+275,20,Female,6 Months,Website,A. Sait
+276,30,Female,Daytime,Instagram,A. Sait
+277,43,Female,Daytime,Referral,P. Test
+278,17,Female,Daytime,Referral,P. Test
+279,34,Male,Daytime,Referral,P. Test
+280,50,Female,3 Months,Website,P. Test
+281,33,Male,3 Months,Walk-in,P. Test
+282,40,Male,6 Months,Website,A. Sait
+283,17,Male,1 Month,Instagram,T. Test
+284,33,Female,Daytime,Website,A. Sait
+285,34,Male,1 Month,Instagram,P. Test
+286,46,Male,1 Month,Website,A. Sait
+287,21,Female,6 Months,Walk-in,P. Test
+288,66,Male,Daytime,Instagram,P. Test
+289,55,Male,Daytime,Referral,A. Sait
+290,47,Female,12 Months,Referral,P. Test
+291,54,Male,1 Month,Website,T. Test
+292,53,Male,1 Month,Referral,P. Test
+293,32,Male,3 Months,Instagram,T. Test
+294,54,Female,12 Months,Referral,T. Test
+295,15,Female,3 Months,Walk-in,P. Test
+296,25,Female,3 Months,Walk-in,A. Sait
+297,42,Male,3 Months,Website,T. Test
+298,39,Male,6 Months,Instagram,A. Sait
+299,64,Female,6 Months,Walk-in,T. Test
+300,37,Male,3 Months,Walk-in,P. Test
