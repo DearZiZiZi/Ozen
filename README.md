@@ -28,4 +28,9 @@ Built during **IdeaTHON 2025** at **Nazarbayev University** to address real busi
 - Pandas / NumPy  
 - CSV-based input/output
 
-## 📁 Repository Structure
+## 📬 Contact
+
+Feel free to reach out if you have questions, feedback, or collaboration ideas:
+
+- 📧 Email: [zzhulbarisov@gmail.com]
+
